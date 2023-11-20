@@ -4,8 +4,12 @@ Business analysis project using statistical tests.
 
 First of all, we got the dataset from an official site, WHO organization, after confirmed vaccination rates around the world.
 The dataset contained more than 300 rows of data.
+
+
 1- Data cleaning and Pre-processing: Making sure our dataset is clean, clear, contains the right format for each type of data in the excel sheet
 with maintaining consistency by handling null and missing values.
+
+
 
 2- Creating the right data visulaization chart/graph based on the type of story we will be telling including:
 
