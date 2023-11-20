@@ -8,8 +8,12 @@ The dataset contained more than 300 rows of data.
 with maintaining consistency by handling null and missing values.
 
 2- Creating the right data visulaization chart/graph based on the type of story we will be telling including:
-  A- Showing the percentages of vaccinated people compared to the population of the content in the entire world  - Bar chart
-  B- Studying the coorelation between school closure after vaccination dates - Pie chart , the dates of school closure in the dataset showed that after certain percentages of death rates in each continent , the schools closed for a different amount of time in each continent
-  C- Performing predictive analytics through linear regression using the Anova Test to predict the correlation between the death rates and the vaccinated poulation having the death rates as the dependent variable and predicted outcome and the vaccinated rates where it showed a strong correlation between the vaccination and death rates for populations under 2 billion
+
+
+  A- Showing the percentages of vaccinated people compared to the population of the content in the entire world  - Bar chart.
+  
+  B- Studying the coorelation between school closure after vaccination dates - Pie chart , the dates of school closure in the dataset showed that after certain percentages of death rates in each continent , the schools closed for a different amount of time in each continent.
+  
+  C- Performing predictive analytics through linear regression using the Anova Test to predict the correlation between the death rates and the vaccinated poulation having the death rates as the dependent variable and predicted outcome and the vaccinated rates where it showed a strong correlation between the vaccination and death rates for populations under 2 billion.
   
 
